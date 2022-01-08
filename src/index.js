@@ -1,10 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './Composants/App.js';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
+  // appel de la fonction App 
   <React.StrictMode>
     <App />
   </React.StrictMode>,

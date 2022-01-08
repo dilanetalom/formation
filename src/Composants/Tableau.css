@@ -1,0 +1,16 @@
+body{
+    background-color: wheat;
+    color:blue;
+}
+table{
+    /* background-color: whitesmoke; */
+    border-radius: 10px;
+    border:3px solid rgb(179, 231, 245) ;
+    border-collapse: collapse; 
+    color:rgb(243, 233, 89);
+
+}
+td{
+    border: 2px solid rgb(179, 231, 245);
+    width: 70px;
+}

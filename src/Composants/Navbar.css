@@ -1,0 +1,29 @@
+
+.container{
+    border: 1px solid burlywood;
+    background: rgba(103, 198, 236, 0.986);
+    width: 1050px;
+    height: 33px;
+    border-radius: 08px;
+    position: relative; 
+}
+.lien{
+    position: relative;
+    text-align: right;
+    /*font-size: 30px;*/
+    padding-right: 30px;
+    padding-bottom: 30px;
+    margin-top: auto;
+}
+.titre{
+    position: absolute;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    padding-left: 30px;
+}
+button{
+    width: 75px;
+    height: 20px;
+    margin-left: 5px;
+} 
